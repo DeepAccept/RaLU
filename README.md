@@ -1,5 +1,5 @@
 # RaLU
-This paper is for our paper accepted by ICML.
+This repo is for our paper **Reasoning-as-Logic-Units: Scaling Test-Time Reasoning in Large Language Models Through Logic Unit Alignment** accepted by ICML'25.
 
 # Run
 1. Set the url and api-key in `src/bot.py`
